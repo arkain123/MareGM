@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Armor.cs" />
+    <Compile Include="Classes\Character.cs" />
+    <Compile Include="Classes\Class.cs" />
+    <Compile Include="Classes\Item.cs" />
+    <Compile Include="Classes\Race.cs" />
+    <Compile Include="Classes\Spell.cs" />
+    <Compile Include="Classes\Weapon.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
