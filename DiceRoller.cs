@@ -2,7 +2,7 @@ using System;
 
 namespace D_Dcharlist
 { 
-        class Roller
+    class Roller
     {
         public int Roll (int cubeType, int repeats)
         {
@@ -15,6 +15,7 @@ namespace D_Dcharlist
             }
             return summ;
         }
+
         public int Roll(int cubeType)
         {
             Random rnd = new Random();
