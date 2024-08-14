@@ -53,6 +53,7 @@
     <Compile Include="Classes\Race.cs" />
     <Compile Include="Classes\Spell.cs" />
     <Compile Include="Classes\Weapon.cs" />
+    <Compile Include="DiceRoller.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
