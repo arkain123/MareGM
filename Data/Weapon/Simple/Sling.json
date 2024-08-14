@@ -1,0 +1,22 @@
+{
+  "name": "Праща",
+  "description": "",
+  "weapon_class": "simple",
+  "cost": 10,
+  "damage_dice": 4,
+  "count_dice": 1,
+  "damage_type": "crushing",
+  "weight": 0,
+  "alternate_damage": -1,
+  "range": 30,
+  "isUniversal": false,
+  "isRanged": true,
+  "isTwoHanded": false,
+  "isReacheable": false,
+  "isLight": false,
+  "isThrowable": false,
+  "isSpecial": false,
+  "isReloading": false,
+  "isHeavy": false,
+  "isFencing": false
+}
