@@ -1,0 +1,22 @@
+{
+  "name": "Сеть",
+  "description": "",
+  "weapon_class": "military",
+  "cost": 100,
+  "damage_dice": 0,
+  "count_dice": 0,
+  "damage_type": "null",
+  "weight": 3.0,
+  "alternate_damage": -1,
+  "range": 5,
+  "isUniversal": false,
+  "isRanged": true,
+  "isTwoHanded": false,
+  "isReacheable": false,
+  "isLight": false,
+  "isThrowable": false,
+  "isSpecial": true,
+  "isReloading": false,
+  "isHeavy": false,
+  "isFencing": false
+}

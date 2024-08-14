@@ -1,0 +1,22 @@
+{
+  "name": "Молот",
+  "description": "",
+  "weapon_class": "military",
+  "cost": 1000,
+  "damage_dice": 6,
+  "count_dice": 2,
+  "damage_type": "crushing",
+  "weight": 10.0,
+  "alternate_damage": -1,
+  "range": -1,
+  "isUniversal": false,
+  "isRanged": false,
+  "isTwoHanded": true,
+  "isReacheable": false,
+  "isLight": false,
+  "isThrowable": false,
+  "isSpecial": false,
+  "isReloading": false,
+  "isHeavy": true,
+  "isFencing": false
+}
