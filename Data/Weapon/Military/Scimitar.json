@@ -1,0 +1,22 @@
+{
+  "name": "Скимитар",
+  "description": "",
+  "weapon_class": "military",
+  "cost": 2500,
+  "damage_dice": 6,
+  "count_dice": 1,
+  "damage_type": "chopping",
+  "weight": 3.0,
+  "alternate_damage": -1,
+  "range": -1,
+  "isUniversal": false,
+  "isRanged": false,
+  "isTwoHanded": false,
+  "isReacheable": false,
+  "isLight": true,
+  "isThrowable": false,
+  "isSpecial": false,
+  "isReloading": false,
+  "isHeavy": false,
+  "isFencing": true
+}

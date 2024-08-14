@@ -1,0 +1,22 @@
+{
+  "name": "Ручной арбалет",
+  "description": "",
+  "weapon_class": "military",
+  "cost": 7500,
+  "damage_dice": 6,
+  "count_dice": 1,
+  "damage_type": "piercing",
+  "weight": 3.0,
+  "alternate_damage": -1,
+  "range": 30,
+  "isUniversal": false,
+  "isRanged": true,
+  "isTwoHanded": false,
+  "isReacheable": false,
+  "isLight": true,
+  "isThrowable": false,
+  "isSpecial": false,
+  "isReloading": true,
+  "isHeavy": false,
+  "isFencing": false
+}

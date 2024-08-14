@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Armor.cs" />
+    <Compile Include="Classes\Character.cs" />
+    <Compile Include="Classes\Class.cs" />
+    <Compile Include="Classes\Item.cs" />
+    <Compile Include="Classes\Race.cs" />
+    <Compile Include="Classes\Spell.cs" />
+    <Compile Include="Classes\Weapon.cs" />
     <Compile Include="DiceRoller.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -64,6 +71,56 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Data\Armor\Heavy\Chainmail.json" />
+    <None Include="Data\Armor\Heavy\Full_Armor.json" />
+    <None Include="Data\Armor\Heavy\Ring_Armor.json" />
+    <None Include="Data\Armor\Heavy\Stacked_Armor.json" />
+    <None Include="Data\Armor\Light\Leather_Armor.json" />
+    <None Include="Data\Armor\Light\Quilted_Armor.json" />
+    <None Include="Data\Armor\Light\Studded_Leather_Armor.json" />
+    <None Include="Data\Armor\Medium\Cuirass.json" />
+    <None Include="Data\Armor\Medium\Half_Armor.json" />
+    <None Include="Data\Armor\Medium\Hide_Armor.json" />
+    <None Include="Data\Armor\Medium\Mail_Shirt.json" />
+    <None Include="Data\Armor\Medium\Scaly_Armor.json" />
+    <None Include="Data\Armor\Shield\Shield.json" />
+    <None Include="Data\Weapon\Military\Blowpipe.json" />
+    <None Include="Data\Weapon\Military\Combat_Axe.json" />
+    <None Include="Data\Weapon\Military\Combat_Hammer.json" />
+    <None Include="Data\Weapon\Military\Combat_Pickaxe.json" />
+    <None Include="Data\Weapon\Military\Flail.json" />
+    <None Include="Data\Weapon\Military\Glaive.json" />
+    <None Include="Data\Weapon\Military\Halberd.json" />
+    <None Include="Data\Weapon\Military\Hamer.json" />
+    <None Include="Data\Weapon\Military\Hand_Crossbow.json" />
+    <None Include="Data\Weapon\Military\Heavy_Crossbow.json" />
+    <None Include="Data\Weapon\Military\Lance.json" />
+    <None Include="Data\Weapon\Military\Long_Bow.json" />
+    <None Include="Data\Weapon\Military\Long_Spear.json" />
+    <None Include="Data\Weapon\Military\Long_Sword.json" />
+    <None Include="Data\Weapon\Military\Morning_Star.json" />
+    <None Include="Data\Weapon\Military\Poleaxe.json" />
+    <None Include="Data\Weapon\Military\Rapier.json" />
+    <None Include="Data\Weapon\Military\Scimitar.json" />
+    <None Include="Data\Weapon\Military\Sword.json" />
+    <None Include="Data\Weapon\Military\Trident.json" />
+    <None Include="Data\Weapon\Military\Twohanded_Sword.json" />
+    <None Include="Data\Weapon\Military\Web.json" />
+    <None Include="Data\Weapon\Military\Whip.json" />
+    <None Include="Data\Weapon\Simple\Batton.json" />
+    <None Include="Data\Weapon\Simple\Club.json" />
+    <None Include="Data\Weapon\Simple\Combat_staff.json" />
+    <None Include="Data\Weapon\Simple\Dagger.json" />
+    <None Include="Data\Weapon\Simple\Dart.json" />
+    <None Include="Data\Weapon\Simple\Hand_Axe.json" />
+    <None Include="Data\Weapon\Simple\Javelin.json" />
+    <None Include="Data\Weapon\Simple\Light_Crossbow.json" />
+    <None Include="Data\Weapon\Simple\Light_Hammer.json" />
+    <None Include="Data\Weapon\Simple\Mace.json" />
+    <None Include="Data\Weapon\Simple\Short_Bow.json" />
+    <None Include="Data\Weapon\Simple\Sickle.json" />
+    <None Include="Data\Weapon\Simple\Sling.json" />
+    <None Include="Data\Weapon\Simple\Spear.json" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

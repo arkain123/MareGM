@@ -1,0 +1,22 @@
+{
+  "name": "Метательное копьё",
+  "description": "",
+  "weapon_class": "simple",
+  "cost": 50,
+  "damage_dice": 6,
+  "count_dice": 1,
+  "damage_type": "piercing",
+  "weight": 2,
+  "alternate_damage": -1,
+  "range": 30,
+  "isUniversal": false,
+  "isRanged": false,
+  "isTwoHanded": false,
+  "isReacheable": false,
+  "isLight": false,
+  "isThrowable": true,
+  "isSpecial": false,
+  "isReloading": false,
+  "isHeavy": false,
+  "isFencing": false
+}
