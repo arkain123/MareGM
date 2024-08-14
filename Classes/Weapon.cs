@@ -10,11 +10,13 @@ namespace D_Dcharlist
     internal class Weapon
     {
         private string name = "weapon";
+        private string description = null;
         private string weapon_class = null;
         private int cost = 0;
         private int damage_dice = 0;
+        private int count_dice = 1;
         private string damage_type = null;
-        private int weight = 0;
+        private double weight = 0;
         private int alternate_damage = 0;
         private int range = 0;
         private bool isUniversal = false;
